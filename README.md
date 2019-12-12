@@ -13,23 +13,31 @@ If you have any questions about this code, feel free to reach me (jnu_cz@stu.jia
 ![](https://github.com/chenzhe207/SBD2L/blob/master/figure_objective_function.png)
 
 ### Experimental results
+The illustration of the noise separation by our SBD2L in the Extended Yale
+B database
+![](https://github.com/chenzhe207/SBD2L/blob/master/figure_noise_seperation.png)
 
-![](https://github.com/chenzhe207/SR_NMR/blob/master/experimental_result.png)
+The average recognition rate of different dictionary learning algorithms under different degrees of contamination
+![](https://github.com/chenzhe207/SBD2L/blob/master/figure_noiserobustness.png)
+
+The average recognition rates with different numbers of atoms on the Extended Yale B face database.
+![](https://github.com/chenzhe207/SBD2L/blob/master/figure_result_EYB.png)
+
 
 # Citation
 
 For paper:
 
-* Z. Chen, X.-J. Wu, J. Kittler, A sparse regularized nuclear norm based matrix regression for face recognition with contiguous occlusion, Pattern Recognition Letters 125 (2019) 494–499. *
+* Z. Chen, X.-J. Wu, H.-F. Yin, J. Kittler, Noise-robust dictionary learning with slack block-diagonal structure for face recognition, Pattern Recognition (2019) 107–118. *
 
 For code:
 ```
-@article{chen2019a,
-	title="A sparse regularized nuclear norm based matrix regression for face recognition with contiguous occlusion",
-	author="Zhe {Chen} and Xiao-Jun {Wu} and Josef {Kittler}",
-	journal="Pattern Recognition Letters",
-	volume="125",
-	pages="494--499",
-	year="2019"
+@article{chen2019noise,
+  title={Noise-Robust Dictionary Learning with Slack Block-Diagonal Structure for Face Recognition},
+  author={Chen, Zhe and Wu, Xiao-Jun and Yin, He-Feng and Kittler, Josef},
+  journal={Pattern Recognition},
+  pages={107-118},
+  year={2019},
+  publisher={Elsevier}
 }
 ```
