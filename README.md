@@ -10,7 +10,7 @@ If you have any questions about this code, feel free to reach me (jnu_cz@stu.jia
 ### Objective function
 
 
-![](https://github.com/chenzhe207/SR_NMR/blob/master/framework.png)
+![](https://github.com/chenzhe207/SBD2L/blob/master/figure_objective_function.png)
 
 ### Experimental results
 
